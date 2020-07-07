@@ -1,0 +1,10 @@
+{
+  "name": "f1t1-sc",
+  "version": "1.0.0",
+  "description": "learn some new stuff",
+  "main": "index.js",
+  "repository": "https://github.com/GeorgeCrisan/f1t1-sc.git",
+  "author": "George Crisan <georgerdp@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
